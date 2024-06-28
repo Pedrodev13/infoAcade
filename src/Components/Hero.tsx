@@ -2,7 +2,7 @@ import React from "react"
 import Imagem from '../../public/images/logo.svg'
 import Central from '../../public/images/HighlightImage.svg'
 
-export const Hero = () => (
+const Hero = () => (
     <div className="overflow-x-hidden">
         <div>
             <img className="" src={Imagem.src} alt="Logo" />
@@ -23,3 +23,5 @@ export const Hero = () => (
 
     </div>
 )
+
+export default Hero;
