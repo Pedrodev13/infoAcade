@@ -1,8 +1,8 @@
-import { Hero } from '../Components/Hero'
+import { Hero } from '../components/Hero'
 import "tailwindcss"
 
 const Page = () => (
-  <div className="">
+  <div className="mt-8 mx-10 h-full md:mx-20">
     <Hero />
   </div>
 )
