@@ -1,5 +1,5 @@
 
-import Hero from "@/components/Hero";
+import Hero from "@/Components/Hero";
 import "tailwindcss"
 
 const Page = () => (
