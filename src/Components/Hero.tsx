@@ -1,6 +1,7 @@
 import React from "react"
 import Imagem from '../../public/images/logo.svg'
 import Central from '../../public/images/HighlightImage.svg'
+import 'tailwindcss'
 
 export const Hero = () => (
     <div className="overflow-x-hidden">
